@@ -5,7 +5,7 @@ function App() {
   return <div>
 <p>I did my homework!</p>
 <img src="Lab1.jpg">
-</div>;
+</div>
 }
 
 export default App;
