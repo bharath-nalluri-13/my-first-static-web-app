@@ -174,6 +174,7 @@ const Home = () => {
             </p>
 
 <h1>References</h1>
+              <p>Please note that these references are listed in seperate section refering to external link.</p>
       <ol>
         <li>
           <p>
@@ -241,7 +242,7 @@ const Home = () => {
             <p>
               - The &lt;head&gt; section has the metadata about the document,
               which includes the character set and viewport settings. It also
-              includes the title of the document.
+              includes the title of the document. I used h1 because they mean a sub section. I maintained this format accross the document.
             </p>
 
             <h3>Body Section:</h3>
@@ -295,7 +296,7 @@ const Home = () => {
               could include a link to the original article and a reference to
               the authors and publication in your own bibliography.
             </p>
-<h3>References:</h3>
+<h3> Tags used in References:</h3>
 
       <p>
         <i>&lt;ol&gt;</i>: The &lt;ol&gt; element is used to create an ordered
