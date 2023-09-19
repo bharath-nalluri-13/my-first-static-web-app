@@ -1,13 +1,9 @@
-import React from 'react';
-import Lab1Image from './Lab1.png';
+import logo from './logo.svg';
+import './App.css';
+import RoutesTree from "./RoutingTree";
 
 function App() {
-  return (
-    <div>
-      <p>I did my homework!</p>
-      <img src={Lab1Image} alt="Lab1" />
-    </div>
-  );
+  return <RoutesTree />;
 }
 
 export default App;
