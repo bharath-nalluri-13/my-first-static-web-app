@@ -172,6 +172,60 @@ const Home = () => {
               history. The disease has been documented in more than 100
               countries...
             </p>
+
+<h1>References</h1>
+      <ol>
+        <li>
+          <p>
+            Adkins, K.A.; Becker, W.; Ayyalasomayajula, S.; Lavenstein, S.;
+            Vlachou, K.; Miller, D.; Compere, M.; Muthu Krishnan, A.;
+            Macchiarella, N. (2023). Hyper-Local Weather Predictions with the
+            Enhanced General Urban Area Microclimate Predictions Tool.
+            <i>Drones</i>, 7, 428.
+            <a href="https://doi.org/10.3390/drones7070428"
+              >DOI: 10.3390/drones7070428</a
+            >
+          </p>
+        </li>
+        <li>
+          <p>
+            Boetcher, S. K., & Consolo, R. C. (2023). Advances in Spacecraft
+            Thermal Control. <i>Advances in Heat Transfer</i>.
+            <a href="https://doi.org/10.1016/bs.aiht.2023.04.001"
+              >DOI: 10.1016/bs.aiht.2023.04.001</a
+            >
+          </p>
+        </li>
+        <li>
+          <p>
+            Brown, J., Rohrbacher, C., Mitchell, T. J., Long, D., Korentsides,
+            J., & Keebler, J. R. (2023). Impact of Critical Narrative on
+            Students’ Abilities to Recognize Ethical Dilemmas in Engineering
+            Work. Retrieved from
+            <a href="https://commons.erau.edu/publication/2078"
+              >https://commons.erau.edu/publication/2078</a
+            >
+          </p>
+        </li>
+        <li>
+          <p>
+            Chaparro, B., Redmond, M. L., Nollen, N., Okut, H., & Collins, T. C.
+            (2023). eDECIDE: A Web-Based Problem-Solving Interventions for
+            Diabetes Self-Management: Protocol for a Pilot Clinical Trial.
+            <i>Contemporary Clinical Trials Communications</i>.
+            <a href="https://doi.org/10.1016/j.conctc.2023.101087"
+              >DOI: 10.1016/j.conctc.2023.101087</a
+            >
+          </p>
+        </li>
+        <li>
+          <p>
+            Barbeau, L., & Cornejo Happel, C. (2023). Critical Teaching
+            Behaviors: Defining, Documenting, and Discussing Good Teaching.
+            Stylus Publishing.
+          </p>
+        </li>
+      </ol>
           </article>
 
           <article>
@@ -241,6 +295,29 @@ const Home = () => {
               could include a link to the original article and a reference to
               the authors and publication in your own bibliography.
             </p>
+<h3>References:</h3>
+
+      <p>
+        <i>&lt;ol&gt;</i>: The &lt;ol&gt; element is used to create an ordered
+        (numbered) list of items. Each reference is enclosed within an
+        &lt;li&gt; (list item) element.
+      </p>
+
+      <p>
+        <i>&lt;li&gt;</i>: The &lt;li&gt; element is used to define individual
+        list items within an ordered list (&lt;ol&gt;).
+      </p>
+
+      <p>
+        <i>&lt;p&gt;</i>: The &lt;p&gt; element is used to define paragraphs of
+        text within each list item. It separates and formats the citation
+        information.
+      </p>
+
+      <p>
+        <i>&lt;i&gt;</i>: The &lt;i&gt; element is used to italicize text, inthis case, the titles of journals and books.
+      </p>
+
           </article>
         </body>
       </html>
