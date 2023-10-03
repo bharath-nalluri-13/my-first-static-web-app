@@ -64,7 +64,7 @@ const Font = () => {
               </li>
               <li>
                 In the "index.css" file, we configure the "html" tag with the
-                font family property using the name previously given: Freckle
+                font-family property using the name previously given: Freckle
                 Face.
               </li>
               <li>
@@ -77,7 +77,7 @@ const Font = () => {
               should be as shown in the below image.{" "}
             </p>
             <img
-              src=".\src\servingfonts.png"
+              src="servingfonts.png"
               alt="Serving Fonts in FreckleFace Format"
               width={1300}
               height={600}
