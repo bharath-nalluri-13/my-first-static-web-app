@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Freckle Face";
+  src:
+    url("FreckleFace-Regular.ttf") format("woff2");
+}
+
+
+html {
+  margin: 0;
+  font-family: "Freckle Face";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
