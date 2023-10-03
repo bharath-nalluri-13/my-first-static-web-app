@@ -18,10 +18,8 @@ const Font = () => {
           <p>
             I conducted research on how to deliver a specific font to a client's
             browser by visiting the Mozilla Developer Network (MDN) from{" "}
-            <a
-              href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts"
-              target="_blank"
-            >
+            <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts" target="_blank" rel="noreferrer">
+
               here
             </a>
             . MDN is a reputable resource for web development information and
@@ -35,10 +33,8 @@ const Font = () => {
             <ol>
               <li>
                 I chose the "
-                <a
-                  href="https://fonts.google.com/specimen/Freckle+Face?query=Freckle+Face"
-                  target="_blank"
-                >
+               <a href="https://fonts.google.com/specimen/Freckle+Face?query=Freckle+Face" target="_blank" rel="noreferrer">
+
                   Freckle Face
                 </a>
                 " font from Google Fonts for this assignment.
