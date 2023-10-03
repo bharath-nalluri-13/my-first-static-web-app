@@ -1,8 +1,13 @@
-body {
+@font-face {
+  font-family: "Freckle Face";
+  src:
+    url("FreckleFace-Regular.ttf") format("woff2");
+}
+
+
+html {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Freckle Face";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
